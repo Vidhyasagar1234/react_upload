@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.ae8ac2d2.css",
+    "main.js": "/react_upload/static/js/main.f5363132.js",
+    "static/media/Signup.jpg": "/react_upload/static/media/Signup.df009497cd506f30e703.jpg",
+    "static/media/body.jpg": "/react_upload/static/media/body.276743c594224ff48892.jpg",
+    "static/media/team.png": "/react_upload/static/media/team.8df9749f1cb2c6b38646.png",
+    "static/media/appdata.png": "/react_upload/static/media/appdata.8d1690276aaac039260f.png",
+    "static/media/approved.png": "/react_upload/static/media/approved.b60ec91df5ca98980b05.png",
+    "static/media/logo.png": "/react_upload/static/media/logo.a93e6676f004ca0ffd2c.png",
+    "static/media/experts.png": "/react_upload/static/media/experts.facc50ff8ad22447e3ee.png",
+    "static/media/reliable.png": "/react_upload/static/media/reliable.a4d74bc5b3bef07f59a6.png",
+    "static/media/customercare.png": "/react_upload/static/media/customercare.9ebfd6c1d27a39e59fab.png",
+    "index.html": "/react_upload/index.html",
+    "main.ae8ac2d2.css.map": "/react_upload/static/css/main.ae8ac2d2.css.map",
+    "main.f5363132.js.map": "/react_upload/static/js/main.f5363132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8ac2d2.css",
+    "static/js/main.f5363132.js"
+  ]
+}
